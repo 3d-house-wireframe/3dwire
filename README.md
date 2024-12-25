@@ -77,7 +77,7 @@ The `read_npz.py` script performs the following tasks:
 ## Citation
 If you find our work useful in your research, please consider citing:
 
-	@article{3DWire24,
+	@InProceedings{3DWire24,
 	  title={Generating 3D House Wireframes with Semantics}, 
 	  author={Xueqi Ma and Yilin Liu and Wenjun Zhou and Ruowei Wang and Hui Huang},
 	  booktitle={ECCV},
